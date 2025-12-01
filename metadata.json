@@ -1,0 +1,7 @@
+{
+  "name": "Control de Inventario Mini Market Bricar",
+  "description": "Sistema de punto de venta y gestión de inventario diseñado para el mercado venezolano, con soporte bimoneda (USD/BsF), seguimiento de inventario y análisis de ventas con IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
